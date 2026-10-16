@@ -1,0 +1,5 @@
+py4cytoscape>=1.13.0
+networkx>=3.0
+pandas>=2.0.0
+requests>=2.30.0
+matplotlib>=3.7.0

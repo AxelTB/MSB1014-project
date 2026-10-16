@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Pipeline outputs and temporary logs
+data/output/
+logs/
+*.log
+
+# Results
+data/output/
+
+# Internal tests and validation
+reference/
+validate_pipeline.py
